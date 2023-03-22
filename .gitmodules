@@ -1,0 +1,3 @@
+[submodule "web-tutorial"]
+	path = web-tutorial
+	url = git@github.com:DavidePonzini/web-tutorial.git
