@@ -1,6 +1,3 @@
 [submodule "web-tutorial"]
 	path = 2022-web-tutorial
 	url = git@github.com:DavidePonzini/web-tutorial.git
-[submodule "www-util"]
-	path = www-util
-	url = git@github.com:DavidePonzini/www-util.git
