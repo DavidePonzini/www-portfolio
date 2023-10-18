@@ -34,7 +34,7 @@
                 <div class="row center">
                     <div class="col-lg links">
                         <div class="card">
-                            <img class="card-img-top" src="2016-sito-brutto/res/antonio.jpg">
+                            <img class="card-img-top" src="2016-sito-brutto/antonio.jpg">
                             <div class="card-body">
                                 <h5 class="card-title">Sito brutto</h5>
                                 <p class="card-text">Badly designed webpage, using only HTML and CSS (2016).</p>
@@ -56,7 +56,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Danicucina Web Tutorial</h5>
                                 <p class="card-text">Websited based on recipes from <a href="https://blog.giallozafferano.it/danicucina/">Danicucina</a>, to teach website developement (2022).</p>
-                                <a href="2016-sito-brutto/" class="btn btn-primary">Open</a>
+                                <a href="2022-web-tutorial/" class="btn btn-primary">Open</a>
                             </div>
                         </div>
                     
