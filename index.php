@@ -25,32 +25,32 @@
                 <h1>Websites</h1>
                 <div class="row center">
                     <div class="col-lg links">
-                        <div class="card">
+                        <a href="2016-sito-brutto/" class="card">
                             <img class="card-img-top" src="2016-sito-brutto/antonio.jpg">
                             <div class="card-body">
                                 <h5 class="card-title">Sito brutto</h5>
                                 <p class="card-text">Badly designed webpage, using only HTML and CSS (2016).</p>
-                                <a href="2016-sito-brutto/" class="btn btn-primary">Open</a>
+                                <span class="btn btn-primary">Open</span>
                             </div>
-                        </div>
+                        </a>
                     
-                        <div class="card">
+                        <a href="2019-chicken-chasers/" class="card">
                             <img class="card-img-top" src="2019-chicken-chasers/res/chicken_kicking.jpg">
                             <div class="card-body">
                                 <h5 class="card-title">Chicken Chasers</h5>
                                 <p class="card-text">Chicken-based website, developed as didactic exercise during my first year teaching Computer Science (2019).</p>
-                                <a href="2019-chicken-chasers/" class="btn btn-primary">Open</a>
+                                <span class="btn btn-primary">Open</span>
                             </div>
-                        </div>
+                        </a>
                     
-                        <div class="card">
-                            <img class="card-img-top" src="2022-web-tutorial/res/DSC_0653b-1024x1536.jpg">
+                        <a href="2022-web-tutorial/" class="card">
+                            <img class="card-img-top" src="2022-web-tutorial/res/DSC_0653b-1024x1536.jpg"/>
                             <div class="card-body">
                                 <h5 class="card-title">Danicucina Web Tutorial</h5>
-                                <p class="card-text">Websited based on recipes from <a href="https://blog.giallozafferano.it/danicucina/">Danicucina</a>, to teach website developement (2022).</p>
-                                <a href="2022-web-tutorial/" class="btn btn-primary">Open</a>
+                                <p class="card-text">Websited based on recipes from <span href="https://blog.giallozafferano.it/danicucina/">Danicucina</span>, to teach website developement (2022).</p>
+                                <span class="btn btn-primary">Open</span>
                             </div>
-                        </div>
+                        </a>
                     
 
                     </div>
