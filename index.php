@@ -33,6 +33,15 @@
                                 <span class="btn btn-primary">Open</span>
                             </div>
                         </a>
+
+                        <a href="2018-scenarios-from-the-future/" class="card">
+                            <img class="card-img-top" src="2018-scenarios-from-the-future/res/chart-linechart.png">
+                            <div class="card-body">
+                                <h5 class="card-title">Scenarios from the Future</h5>
+                                <p class="card-text">Visualization tools for complex data, developed as final project of Data Visualization course (2018).</p>
+                                <span class="btn btn-primary">Open</span>
+                            </div>
+                        </a>
                     
                         <a href="2019-chicken-chasers/" class="card">
                             <img class="card-img-top" src="2019-chicken-chasers/res/chicken_kicking.jpg">
